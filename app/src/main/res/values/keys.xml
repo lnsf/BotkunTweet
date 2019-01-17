@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="consumer_key">your consumer key</string>
+    <string name="consumer_key_secret">your consumer key secret</string>
+    <string name="callback_url">your callback url</string>
+</resources>
